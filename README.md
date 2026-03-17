@@ -173,3 +173,5 @@ for target in targets:
 <img width="1138" height="522" alt="image" src="https://github.com/user-attachments/assets/ceaa96bb-8358-4b70-9920-079aa313df8d" />
 
 ## Result:
+
+The model successfully predicts temperature, PM2.5, and solar radiation with good accuracy.
